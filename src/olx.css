@@ -1,0 +1,177 @@
+h5,
+h3 {
+  padding: 0;
+  margin: 0;
+}
+/* .menu-header {
+  border: 1px solid black;
+  background-color: rgba(194, 194, 194, 0.849);
+  padding: 5px;
+} */
+.img-1 {
+  width: 100%;
+  height: 200px;
+}
+.logo-design {
+  width: 50px;
+  height: 50px;
+}
+.text-color {
+  text-decoration: none;
+}
+.space {
+  margin-left: 8px;
+  margin-right: 8px;
+}
+.space-1 {
+  width: 100%;
+}
+.div-section {
+  width: 500px !important;
+}
+.nav-size {
+  width: 350px !important;
+}
+.setting {
+  margin-top: 5px;
+  margin-left: 3px;
+  margin-right: 3px;
+}
+.set {
+  margin-left: 3px;
+  margin-right: 3px;
+}
+.button-size {
+  padding-top: 10px;
+  padding-right: 20px;
+  padding-bottom: 10px;
+  padding-left: 20px;
+  border-radius: 40%;
+}
+.style {
+  border-bottom: 1px solid rgba(202, 200, 200, 0.521);
+  margin-bottom: 0 !important;
+}
+.style li {
+  list-style: none;
+  display: inline-block;
+  padding: 3px;
+}
+.div-1 {
+  margin-top: 0;
+}
+.img-1 {
+  width: 100%;
+  height: 200px;
+}
+.img-2 {
+  width: 80%;
+  height: 300px;
+  margin: auto;
+  display: block;
+}
+
+.first-div {
+  border: 1px solid rgb(119, 118, 118);
+  display: inline-block;
+  width: 22%;
+  padding: 1%;
+}
+.container {
+  border-radius: 10px;
+  padding-left: 2px;
+  padding-right: 2px;
+  padding-bottom: 2px;
+}
+.container h4 {
+  margin-top: 30px;
+  margin-bottom: 20px;
+}
+.card img {
+  height: 245px;
+}
+
+.card .card-body {
+  display: none;
+}
+.card:hover .card-body {
+  display: block;
+}
+.card:hover img {
+  height: 150px;
+}
+
+.color-1 {
+}
+.footer-1 {
+  margin-top: 30px;
+  border-bottom: 1px solid rgba(119, 118, 118, 0.5);
+}
+.footer-col {
+  font-size: 34px;
+  line-height: 40px;
+}
+.footer-col h2 {
+  margin-bottom: 15px;
+}
+.footer-col-1 {
+  margin-top: 25px !important;
+}
+.footer-col-1 h6 {
+  margin-bottom: 10px !important;
+  text-transform: uppercase;
+}
+.footer-col-1 img {
+  width: 25%;
+  height: 40px;
+}
+.footer-div {
+  background-color: rgba(184, 184, 184, 0.5);
+}
+.footer-2 ul li {
+  list-style-type: none;
+  color: rgb(119, 118, 118);
+  font-size: smaller;
+}
+.footer-2 ul li:first-of-type {
+  color: black;
+  font-size: small;
+  margin-top: 5px;
+  margin-bottom: 10px;
+  font-weight: bold;
+}
+
+.size-img {
+  width: 30px;
+  height: 20px;
+}
+
+.span-style {
+  display: block;
+  margin-top: 43px;
+}
+.span-style img {
+  width: 80px;
+}
+
+.size-div h6 {
+  color: white;
+  font-size: 12px;
+  margin-bottom: 0;
+}
+.div-style {
+  height: 100%;
+  align-items: center;
+  display: flex;
+  justify-content: space-around;
+}
+.size-div .row {
+  height: 50px;
+  background-color: #002f34;
+}
+.size-div .div-style:last-of-type {
+  justify-content: end;
+}
+.size-div .div-style:first-of-type {
+  justify-content: start;
+}
